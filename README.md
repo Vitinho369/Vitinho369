@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitinho369" alt="Vitinho369" align = "center"/></p>
+
  <div>
   <a href="https://github.com/Vitinho369">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Vitinho369&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
