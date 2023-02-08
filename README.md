@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitinho369&theme=dracula" alt="Vitinho369" align = "center"/></p>
+<p><img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitinho369&theme=dracula" alt="Vitinho369"/></p>
 
  <div>
   <a href="https://github.com/Vitinho369">
